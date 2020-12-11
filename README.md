@@ -1,9 +1,5 @@
-# Guessing-Game
-all: README.md
+## guessinggame.sh for Coursera/JHU's The Unix Workbench course
 
-README.md:
-	echo "## guessinggame.sh for Coursera/JHU's The Unix Workbench course\n" > README.md
-	echo -n "README.md created: " >> README.md
-	date >> README.md
-	echo -n "\nNumber of lines in guessinggame.sh: " >> README.md
-	wc -l < ./guessinggame.sh >> README.md
+README.md created: Mon Sep 25 12:57:06 PDT 2017
+
+Number of lines in guessinggame.sh: 26
